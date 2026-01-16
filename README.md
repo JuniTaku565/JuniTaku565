@@ -15,7 +15,7 @@ Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo 
 📫 **Como me encontrar**  
 [LinkedIn](https://www.linkedin.com/in/wesleisonjuniomarques/)    /   [Email](mailto:wesleison.contato.br@gmail.com)
 
-🛠️ **Tecnologias e Skills que Utilizo**  
+🛠️ **Tecnologias e Skills que Utilizo**:
 
 **Linguagens:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,4 +28,3 @@ Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo 
 
 **Back-end:**  
 Construindo aplicações com foco em código limpo e boas práticas.
-
