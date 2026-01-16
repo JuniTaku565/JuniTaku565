@@ -13,8 +13,7 @@ Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo 
 - Contribuir com projetos open-source para ganhar experiência prática  
 
 📫 **Como me encontrar**  
-[LinkedIn](https://www.linkedin.com/in/wesleisonjuniomarques/)  
-[Email](mailto:wesleison.contato.br@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/wesleisonjuniomarques/)    [Email](mailto:wesleison.contato.br@gmail.com)
 
 🛠️ **Tecnologias e Skills que Utilizo**  
 
