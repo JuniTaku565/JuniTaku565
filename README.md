@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo soluções escaláveis enquanto aprendo novas tecnologias.
 ***
-💻 #**Meu Momento Atual**
+💻 ## **Meu Momento Atual**
 
 👨‍💻 Profissional: Dev Back-end em treinamento  
 🚀 Objetivo: Me especializar e crescer na área de Back-end  
