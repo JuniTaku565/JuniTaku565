@@ -39,3 +39,9 @@ Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo 
 
 **Back-end:**  
 Construindo aplicações com foco em código limpo e boas práticas
+
+---
+
+## 🎮 Pacman Contribution Graph
+
+[![Pacman Contribution Graph](https://github.com/JuniTaku565/JuniTaku565/raw/output/pacman-contribution-graph.svg)](https://github.com/JuniTaku565)
