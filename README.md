@@ -44,4 +44,4 @@ Construindo aplicações com foco em código limpo e boas práticas
 
 ## 🎮 Pacman Contribution Graph
 
-[![Pacman Contribution Graph](https://github.com/JuniTaku565/JuniTaku565/raw/output/pacman-contribution-graph.svg)](https://github.com/JuniTaku565)
+![Pacman Contribution Graph](pacman.png)
