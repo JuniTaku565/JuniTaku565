@@ -19,7 +19,7 @@ Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo 
 🛠️ **Tecnologias e Skills que Utilizo**  
 
 **Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **Ferramentas:**  
