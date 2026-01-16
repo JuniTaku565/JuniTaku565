@@ -10,7 +10,8 @@ Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo 
 
 ---
 
-#### 💡 Interesses  
+### 💡 Interesses  
+
 - Criar aplicações Back-end robustas  
 - Aprender a estruturar bancos de dados de forma eficiente  
 - Contribuir com projetos open-source para ganhar experiência prática
