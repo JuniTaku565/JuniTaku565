@@ -1,7 +1,7 @@
 # Olá, eu sou Weslison Junio M.G, conhecido também como JuniTaku565 👋
 
 Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo soluções escaláveis enquanto aprendo novas tecnologias.
-___
+***
 💻 **Meu Momento Atual**
 
 👨‍💻 Profissional: Dev Back-end em treinamento  
