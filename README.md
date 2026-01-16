@@ -6,7 +6,7 @@ JuniTaku565 · Back-end Developer | Clean Code & APIs
 🚀 Objetivo: Me especializar e crescer na areá de Back-end Developer.
 
 
-📫 Me encontra em: [LinkedIn](https://www.linkedin.com/in/wesleisonjuniomarques/) | [Email](wesleison.contato.br@gmail.com)  
+##📫 Me encontra em: [LinkedIn](https://www.linkedin.com/in/wesleisonjuniomarques/) | [Email](wesleison.contato.br@gmail.com)  
 
 ## Skills
 - Python
