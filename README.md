@@ -2,18 +2,24 @@
 
 Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo soluções escaláveis enquanto aprendo novas tecnologias.
 ***
-💻 ***Meu Momento Atual***  
+💻 **Meu Momento Atual**
+
 👨‍💻 Profissional: Dev Back-end em treinamento  
 🚀 Objetivo: Me especializar e crescer na área de Back-end  
 🌱 Foco: Aprimorando Python, SQL e boas práticas de desenvolvimento  
 
+---
+
 💡 **Interesses**  
 - Criar aplicações Back-end robustas  
 - Aprender a estruturar bancos de dados de forma eficiente  
-- Contribuir com projetos open-source para ganhar experiência prática  
+- Contribuir com projetos open-source para ganhar experiência prática
+
+***
 
 📫 **Como me encontrar**  
 [LinkedIn](https://www.linkedin.com/in/wesleisonjuniomarques/)    /   [Email](mailto:wesleison.contato.br@gmail.com)
+***
 
 🛠️ **Tecnologias e Skills que Utilizo**:
 
