@@ -39,5 +39,3 @@ Sou um desenvolvedor focado em Back-end, explorando código limpo e construindo 
 
 **Back-end:**  
 Construindo aplicações com foco em código limpo e boas práticas
-
-![Pacman Contribution Graph](pacman.png)
