@@ -1,16 +1,17 @@
-## Olá, eu sou o Wesleison Junio conhecido também como JuniTaku565 👋
+# Olá, eu sou Wesley Raphael M.! 👋
 
-<!--
-**JuniTaku565/JuniTaku565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JuniTaku565 · Back-end Developer | Clean Code & APIs
 
-Here are some ideas to get you started:
+💻 Dev Back-end em treinamento  
+🔥 Amante de código limpo e desafios  
+📫 Me encontra em: [LinkedIn](https://www.linkedin.com/in/seu-link) | [Portfolio](https://seusite.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Node.js
+- SQL
+- APIs REST
+
+## Projetos em destaque
+- Projeto1: breve descrição ou link
+- Projeto2: breve descrição ou link
